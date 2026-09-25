@@ -20,7 +20,13 @@
 
 ---
 
-## 📥 安裝說明
+
+## 📥 下載與安裝說明
+
+- 📦 **官方 Release 下載頁**：[The Guild 1 Remake: Europa 1410 繁體中文模組 v1.0](https://github.com/KenAir/The_Guild_Europa_1410_Traditional_Chinese_Mod/releases/tag/v1.0.0)
+- 🚀 **直接下載安裝壓縮包**：[點擊直接下載 v1.0.zip](https://github.com/KenAir/The_Guild_Europa_1410_Traditional_Chinese_Mod/releases/download/v1.0.0/The_Guild_Europa_1410_Traditional_Chinese_Mod_v1.0.zip)
+
+### 安裝步驟：
 
 1. **解壓縮**：下載並解壓 `The Guild - Europa 1410_Traditional_Chinese_Mod_v1.0.zip` 至任意資料夾。
 2. **完全退出遊戲**。
