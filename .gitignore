@@ -1,0 +1,22 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+\.BIN/
+.DS_Store
+
+# Logs and backups
+*.log
+*.tmp
+*.bak
+*.original.bak
+
+# IDE & Editor caches
+.vs/
+.idea/
+.vscode/
+
+# Build outputs
+bin/
+obj/
+
